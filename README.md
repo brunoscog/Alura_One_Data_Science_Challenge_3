@@ -30,7 +30,11 @@
 
 ## 🧾 Descrição do Projeto
 
-Este projeto aborda o desafio de **prever a evasão de clientes (Churn)** da **Telecom X**. A missão principal foi evoluir da análise exploratória para a construção de modelos preditivos robustos, capazes de identificar clientes com alta probabilidade de cancelamento de serviços. O trabalho envolveu a aplicação de um pipeline completo de Machine Learning, desde o pré-processamento avançado dos dados até a interpretação dos modelos e a geração de insights estratégicos para a retenção de clientes.
+Este projeto é uma continuação do desafio anterior (`Alura_One_Data_Science_Challenge_2`), onde a fonte de dados de clientes da Telecom X foi extraída, limpa e transformada.
+
+A missão principal agora é evoluir da análise exploratória para a construção de modelos preditivos robustos, capazes de identificar clientes com alta probabilidade de cancelamento de serviços. O trabalho envolveu a aplicação de um pipeline completo de Machine Learning, desde o pré-processamento avançado dos dados até a interpretação dos modelos e a geração de insights estratégicos para a retenção de clientes.
+
+Você pode acessar o projeto anterior aqui: [https://github.com/brunoscog/Alura_One_Data_Science_Challenge_2](https://github.com/brunoscog/Alura_One_Data_Science_Challenge_2)
 
 ---
 
